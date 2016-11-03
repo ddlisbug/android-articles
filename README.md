@@ -11,3 +11,11 @@
 #####[Google推荐的图片加载库Glide介绍-和Picasso对比](http://jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0327/2650.html)
 #####[Glide - 开始！](http://mrfu.me/2016/02/27/Glide_Getting_Started/)
 #####[详谈高大上的图片加载框架Glide -源码篇 ](http://blog.csdn.net/xiehuimx/article/details/52550990)
+
+####Retrofit网络请求<br>
+#####[你真的会用Retrofit2吗?Retrofit2完全教程](http://www.jianshu.com/p/308f3c54abdd)
+#####[RxJava 与 Retrofit 结合的最佳实践](https://gank.io/post/56e80c2c677659311bed9841)
+#####[Retrofit2 源码解析](http://bxbxbai.github.io/2015/12/13/retrofit2/)
+
+####Rxjava
+#####[给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)
